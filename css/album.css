@@ -1,0 +1,20 @@
+.swiper-tinder-button-no,
+.swiper-tinder-button-yes {
+    opacity: 1 !important;
+}
+
+
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.img-none {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
